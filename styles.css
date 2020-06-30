@@ -1,0 +1,72 @@
+h1 {
+  font-size: 70px;
+  text-align: center;
+  text-shadow: 1px 2px 2px aqua
+  
+}
+
+h2 {
+  font-size: 35px;
+  margin-top: 10px
+}
+#id1 {
+  margin-left: 0%;
+  margin-top: 
+  
+}
+
+.p1 { 
+  font-size: 25px;
+  display-block: ;
+  border-width: 0px;
+}
+#right-side {
+  margin-left: 70%;
+  margin-top: 
+  position: absolute;
+  
+}
+
+p {
+  font-size: 25px;
+  display-block: ;
+  border-style: ;
+  border-width: 100px;
+  width: 40%;
+}
+
+#image-container {
+  background: url('https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5dcda59e63bb6ae5c9282801_small-red-logo.png');
+  background-size: 200px;
+  background-repeat: no-repeat;
+  height: 100px
+}
+h5 {
+  font-size: 18px;
+  margin: 28px;
+  padding: 38px;
+  // text-shadow: 1px 2px 3px black; //
+}
+
+h6 {
+  font-size: 15px; 
+}
+
+
+#top-1 {
+  Background: url('');
+  background-position: left;
+  background-size: 850px;
+  background-repeat: no-repeat;
+  padding: 65px;
+  border: 
+  }
+
+button {
+  font-size: 25px;
+  color: white;
+  background-color: #bb2026;
+  border: 0px;
+  padding: 10px;
+  margin: 
+}
